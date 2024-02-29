@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a PhD student working on spatial audio and sound field control in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program at C4DM, Queen Mary University of London.
+
+[Reach out](acw629@qmul.ac.k) if you want to chat about music, audio and acoustics!
